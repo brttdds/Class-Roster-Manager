@@ -1,2 +1,2 @@
 # Cplusplus-project
-WGU Scripting and Programming - Class Roster 
+WGU C867 Scripting and Programming - Class Roster 
