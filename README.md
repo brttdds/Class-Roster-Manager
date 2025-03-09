@@ -1,4 +1,4 @@
-# Class-Roster-Project
+# Class-Roster-Program
 
 You are hired as a contractor to help a university migrate an existing student system to a new platform using C++:
 
