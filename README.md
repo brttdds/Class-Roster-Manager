@@ -1,7 +1,15 @@
 # Class-Roster-Program
 
-*Completed for Western Governors University's Scripting and Programming - Applications (C867) course*
+*A C++ application developed for Western Governors University’s Scripting and Programming – Applications (C867) course.*
 
-You are hired as a contractor to help a university migrate an existing student system to a new platform using C++:
+**About This Project**
 
-This program containes two classes (i.e., Student and Roster). The program will maintain a current roster of students within a given course. Student data for the program includes student ID, first name, last name, email address, age, an array of the number of days to complete each course, and degree program. This information can be found in the “studentData Table” below. The program will read a list of students and use function calls to manipulate data. While parsing the list of data, the program should create student objects. The entire student list will be stored in one array of students called classRosterArray. 
+Class Roster Manager is an object-oriented C++ program that focuses on data parsing, input validation, and structured record management. While originally created in an academic setting, it demonstrates core competencies in building reliable, integrity-focused data systems.
+
+**Features**
+
+- Parse and display structured student data
+- Validate email formats and detect data anomalies
+- Calculate average course completion time
+- Support and filter by multiple degree programs
+- Built using class inheritance, arrays, and encapsulation principles
